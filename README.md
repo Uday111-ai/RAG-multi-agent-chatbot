@@ -71,27 +71,6 @@ project/
 
 ---
 
-### 🔹 Orchestrator
-Acts as the central controller that:
-- Manages agent flow  
-- Passes data between components  
-- Ensures structured execution  
-
----
-
-### 🔹 Vector Database (ChromaDB)
-- Stores embeddings of documents  
-- Enables semantic search  
-- Returns most relevant context for queries  
-
----
-
-### 🔹 Frontend (Streamlit)
-- Animated UI for user interaction  
-- Displays responses in real-time  
-
----
-
 ## 🧪 Setup Instructions (Local)
 
 ### 1. Clone the Repository
